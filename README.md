@@ -6,5 +6,6 @@
 
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=codeofpunk&show_icons=true&theme=dark&locale=en" alt="codeofpunk" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codeofpunk&show_icons=true&locale=en&layout=compact" alt="codeofpunk" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=codeofpunk&show_icons=true&theme=dark&locale=en" alt="codeofpunk" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codeofpunk&show_icons=true&locale=en&layout=compact" alt="codeofpunk" /></p>
+
